@@ -4,6 +4,6 @@
 # groupe BITD2_1
 #Eva AVARRE
 #Marwa FIDAH MOURO
-#Erwan KERVOELEN
+#Erwann KERVOELEN
 #https://github.com/uvsq22102840/l1-python
 #############################################
