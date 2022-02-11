@@ -1,6 +1,6 @@
 Faire tourner l'animation du tas de sable avec une boucle while et définir le fait que les cases soient stables pour l'utiliser comme condition pour 
 la boucle while (l'animation s'arrête donc quand toutes les cases sont stables), cela permet aussi d'utiliser la commande break pour stoper 
-la boucle while (donc stoper l'animation)
+la boucle while (donc stoper l'animation), la boucle while permet d'effectuer les avalanches à chaque tour de boucle.
 
 
 
