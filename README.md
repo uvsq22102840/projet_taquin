@@ -1,9 +1,9 @@
-# projet_tas_de_sable
+# projet_taquin
 
 #####################################################
 # groupe BITD2_1
 # Eva AVARRE
 # Marwa FIDAH MOURO
 # Erwann KERVOELEN
-# https://github.com/uvsq22102840/projet_tas_de_sable
+# 
 ######################################################
